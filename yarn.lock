@@ -2204,17 +2204,17 @@
     unist-util-remove "^2.0.1"
     unist-util-visit "^2.0.3"
 
-"@mdjs/core@^0.8.2":
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/@mdjs/core/-/core-0.8.2.tgz#c7b86fc62552a1f4c16da19712b776439b99f073"
-  integrity sha512-Q5FvwasBrdTm7WTvJTBgoM9RsyYH9rdC5zSGuZCDnXSdiw74oZeOtZlf0LoYfpk3Vr90gqLsgtvCO2Udtv1GnA==
+"@mdjs/core@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@mdjs/core/-/core-0.9.1.tgz#c07f85f84089068214c5dcf4ab163ffc38a5c962"
+  integrity sha512-61CO1R3yCM4tyeDcFqW0a1fdK5ubVJiFicp+vsY+XuUdDjs57tSSJ1ttGjoauocTlXem8GX0iU8p77og4ZQt+g==
   dependencies:
-    "@mdjs/mdjs-preview" "^0.5.1"
+    "@mdjs/mdjs-preview" "^0.5.3"
     "@mdjs/mdjs-story" "^0.3.0"
     "@types/unist" "^2.0.3"
     es-module-lexer "^0.3.26"
     github-markdown-css "^4.0.0"
-    plugins-manager "^0.2.4"
+    plugins-manager "^0.3.0"
     rehype-autolink-headings "^5.0.1"
     rehype-prism-template "^0.4.1"
     rehype-raw "^5.0.0"
@@ -2236,10 +2236,10 @@
     "@lion/accordion" "^0.4.2"
     lit-element "^2.4.0"
 
-"@mdjs/mdjs-preview@^0.5.1":
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/@mdjs/mdjs-preview/-/mdjs-preview-0.5.1.tgz#e8a252130cd21e8accdbc175f73ca109986a3039"
-  integrity sha512-wxLR0dtku/Uv/LllEXx61r+H1S1n2pRM30Ht57aITukbFBoeh1xZoA/c9j/X+a2/paQNXzG9KsnMfUH0HKMsOQ==
+"@mdjs/mdjs-preview@^0.5.3":
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/@mdjs/mdjs-preview/-/mdjs-preview-0.5.3.tgz#fc711717e6855d93283aee0ded6bc4e782d48fa1"
+  integrity sha512-rGt51Gmz8glUaQlu2VMEs9PlYHUdpw/YprAfOtobrpyKHOQggr9EtzmSpurmVwDUlxfBW/DGAjFENKRkR90P4g==
   dependencies:
     "@lion/accordion" "^0.6.1"
     "@open-wc/scoped-elements" "^2.0.0-next.3"
@@ -12539,10 +12539,10 @@ plugins-manager@^0.2.0, plugins-manager@^0.2.1:
   resolved "https://registry.yarnpkg.com/plugins-manager/-/plugins-manager-0.2.1.tgz#fe42857f9dd9326eccdeb2e112f5f4e7fe9f261d"
   integrity sha512-ir2R5Jt1XH9/oFKEiyOhRFoGfFEToru8NinhebaBMm1iZdaL51k0hubjuVKPqMkA+T3FguB7FFd+x3iKSWOvAg==
 
-plugins-manager@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/plugins-manager/-/plugins-manager-0.2.4.tgz#56c1a885c732ebc40cc596a7e46d73d8d810d5bd"
-  integrity sha512-wTkYRJETLp2ht9ikD2FFZTlSFrNRzSrOsVS+2wdO+BYtcHd4jLJAXz6q2l5gzykDPpFidvcbTud58S55jdw4BQ==
+plugins-manager@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/plugins-manager/-/plugins-manager-0.3.0.tgz#70a21798c7a9016be790eddccf13675bb8f0c037"
+  integrity sha512-vzL0QDeTraTcF+6o754/JBo0j+Woyrxgsakl1dCu3oCKzz/MHNvaVv+sgRHzoHjje0QPBMkKbvo99u8pOrBfcQ==
 
 pngjs@^5.0.0:
   version "5.0.0"
